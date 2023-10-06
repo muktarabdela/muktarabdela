@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **react, next js**
 
-- 📫 How to reach me **muktarabdel10@gmail.com**
+- 📫 How to reach me **muktarabdela10@gmail.com**
 
 - ⚡ Fun fact **## Fun Fact ⚽ When I'm not crafting code, you'll often find me cheering for my favorite football team or even kicking the ball around with friends. Whether coding or watching a game, I'm all about teamwork and scoring those goals, both on and off the field! ⚽🥅**
 
