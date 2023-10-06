@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **payton**
 
-- 👨‍💻 All of my projects are available at [ww.muka10.com](www.muka10.com)
+- 👨‍💻 All of my projects are available at [Portfolio ](https://www.muka10.com)
 
 - 💬 Ask me about **react, next js**
 
