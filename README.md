@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muktar Abdela!</h1>
-<h3 align="center">I'm a passionate Full-Stack React/Next.js Developer with a love for crafting seamless web experiences. Welcome to my GitHub profile! 🌟</h3>
+<h3 align="center">I'm a passionate Full-Stack React | Next.js Developer with a love for crafting seamless web experiences. Welcome to my GitHub profile! 🌟</h3>
 
 - 🌱 I’m currently learning **payton**
 
